@@ -19,7 +19,7 @@ To run the code in the notebook, you'll need the following dependencies:
 
 You can install these dependencies using the following command:
 
-```bash
+```python
 pip install numpy pandas tensorflow scikit-learn jupyter
 ```
 ## Usage
